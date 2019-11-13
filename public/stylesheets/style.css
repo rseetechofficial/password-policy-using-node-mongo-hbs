@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h4 {
+  color:  red;
+}
+
+.maincontant {
+    background-color: #4e8dc3;
+    border-radius: 15px;
+    padding: 15px 0px 15px 0px;
+    color: #ffffff;
+    margin-top: 50px;
+}
+
+.navcolor {color: #ffffff!important;}
+
+.btnAll {    margin-left: 20px;
+  margin-right: 20px;}
+
+  .btnAllfrm {
+    background-color: #c76f13!important;
+    width: 80px;
+    font-size: 16px!important;
+    font-weight: bold!important;
+    color: #ffffff!important;
+    float: right;
+  }
+.logo {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.error{
+  color: red!important;
+}
+.headbtn {
+  background-color: #c76f13!important;
+  border: 0px solid !important;
+  border-color: #c76f13!important;
+}
